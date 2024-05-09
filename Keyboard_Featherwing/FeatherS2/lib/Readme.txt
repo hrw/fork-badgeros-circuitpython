@@ -1,1 +1,0 @@
-libs are for circuitpython 7.xx if you are in 6.3 use libs from dafaruit for you version
